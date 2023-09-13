@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1694582420358,
+      "tag": "0000_wide_morgan_stark",
+      "breakpoints": true
+    }
+  ]
+}
